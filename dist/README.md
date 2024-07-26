@@ -1,1 +1,1 @@
-# lot-calculator
+# Lot calculator
